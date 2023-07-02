@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keeghanm&label=Profile%20views&color=0e75b6&style=flat" alt="keeghanm" /> </p>
 
-- 🔭 I’m currently working on [ChessTraining.app](https://github.com/KeeghanM/chess-training-app)
+- 🚧 I’ve built [ChessTraining.app](https://github.com/KeeghanM/chess-training-app) and the [ChessPuzzles API](https://github.com/KeeghanM/chess-puzzle-api)
 
-- 🌱 I’m currently learning **React** and **Machine Learning for Data Analysis**
+- 🔭 My latest projects are [ArcAide](https://arc-aide.vercel.app/) and [UltimateCityGen](https://github.com/KeeghanM/ultimate-city-gen)
 
-- 👨‍💻 My portfolio is available at [https://keeghanm.github.io/](https://keeghanm.github.io/)
+- 🌱 I'm currently super interested in how AI can enhance business, and specifically product
 
-- 📫 How to reach me **keeghan_m@live.com**
+- 👨‍💻 My portfolio is available at [keeghan.io](https://keeghanm.io/)
+
+- 📫 How to reach me **hello@keeghan.io**
 
 - ⚡ Fun fact **I play chess and love Rock Climbing!**
 
